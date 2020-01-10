@@ -3505,6 +3505,11 @@ button[type="submit"] .form-loading {
   margin-left: 8px;
 }
 
+.link-list svg{
+  width: 16px;
+  height: 16px;
+  fill: currentColor;
+}
 .widget ul:last-child,
 .widget p:last-child {
   margin-bottom: 0;
